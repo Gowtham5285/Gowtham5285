@@ -37,11 +37,13 @@ const gowtham = {
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-<div align="center">
+---
 
 ### 📄 Resume Builder — MERN Stack Web App
+
+<div align="center">
 
 [![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://resume-builder-xi-one-39.vercel.app)
 [![Source Code](https://img.shields.io/badge/⭐%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Gowtham5285/Resume-Builder)
@@ -64,6 +66,32 @@ const gowtham = {
 **Stack:** `React.js` · `Vite` · `Tailwind CSS` · `Node.js` · `Express.js` · `MongoDB` · `JWT` · `Cloudinary`
 
 **Deployed on:** `Vercel` (Frontend) · `Render` (Backend) · `MongoDB Atlas` (DB)
+
+---
+
+### 🗓️ Event Management System — React + Vite Web App
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://event-management-system-simple.vercel.app)
+[![Source Code](https://img.shields.io/badge/⭐%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Gowtham5285/event_management_system_simple)
+
+</div>
+
+> A modern, lightweight Event Management System built with **React + Vite** — create, edit, and organize events with a clean UI, lightning-fast performance, and full responsiveness across all devices.
+
+| ✨ Feature | 📋 Description |
+|---|---|
+| 📅 Event CRUD | Create, edit & delete events with ease |
+| 📱 Responsive Design | Works on desktop, tablet & mobile |
+| ⚡ Vite Powered | Lightning-fast HMR & optimized builds |
+| 🎨 Clean UI | Modern, intuitive user interface |
+| 🔄 Real-time Updates | Instant feedback on all interactions |
+| 📋 Event Details | Comprehensive event info display |
+
+**Stack:** `React.js` · `Vite` · `JavaScript ES6+` · `CSS3` · `HTML5` · `ESLint`
+
+**Deployed on:** `Vercel`
 
 ---
 
