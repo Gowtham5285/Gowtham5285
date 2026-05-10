@@ -108,8 +108,8 @@ const gowtham = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gowtham5285&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham5285&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=Gowtham5285&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Gowtham5285&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
 
 <br/>
 
